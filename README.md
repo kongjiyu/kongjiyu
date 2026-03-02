@@ -44,11 +44,11 @@ tools: ["Git"]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kongjiyu&show_icons=true&locale=en&layout=compact" alt="kongjiyu" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kongjiyu&show_icons=true&locale=en&layout=compact&theme=dark" alt="kongjiyu" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kongjiyu&show_icons=true&locale=en" alt="kongjiyu" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kongjiyu&show_icons=true&locale=en&theme=dark" alt="kongjiyu" />
 </p>
 
 <p align="center">
