@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kongjiyu.kongjiyu)
 
 <p align="center">
-  <img src="https://socialify.git.ci/kongjiyu/kongjiyu/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="kongjiyu" width="700" height="300" />
+  <img src="https://socialify.git.ci/kongjiyu/kongjiyu/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="kongjiyu" width="700" height="300" />
 </p>
 
 <p align="center">
