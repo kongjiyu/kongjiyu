@@ -1,66 +1,118 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kong+Ji+Yu;A+Student+from+Malaysia)](https://git.io/typing-svg)
-
-![](https://visitor-badge.glitch.me/badge?page_id=kongjiyu.kongjiyu)
-
-<p align="center">
-  <img src="https://socialify.git.ci/kongjiyu/kongjiyu/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="kongjiyu" width="700" height="300" />
-</p>
-
-<p align="center">
-<br/>
-<a href="https://instagram.com/kongjiyu0198">
-  <img alt="kongjiyu's Instagram" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
-<br/>
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kongjiyu&theme=github-dark-dimmed&custom_title=Kongjiyu%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-```yaml
-name: Kong Ji Yu
-located_in: Malaysia
-status: Student
-education: ["Tunku Abdul Rahman University of Management and Technology (TARUMT)"]
-contact: kongjiyu0198@gmail.com
-currently_learning: ["React"]
-fun_fact: ["I'm cosplayer!"]
-technical_background: ["Arduino", "C", "Java", "JavaScript", "Python"]
-fields_of_interests: ["Linux", "MySQL", "Nodejs", "React"]
-tools: ["Git"]
-```
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-hero-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile-hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img alt="Kong Ji Yu — Software Engineering, Product, and Systems" src="./assets/profile-hero-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kongjiyu&show_icons=true&locale=en&layout=compact&theme=dark" alt="kongjiyu" />
+  <a href="https://jy-portfolio-six.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kongjiyu0198@gmail.com"><strong>Email</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kongjiyu&show_icons=true&locale=en&theme=dark" alt="kongjiyu" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kongjiyu&" alt="kongjiyu" />
-</p>
+## I build software around real human and business needs.
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+I'm a Software Engineering student at **TAR UMT** with a **3.96 / 4.00 CGPA**, combining hands-on engineering with product thinking, client communication, and delivery ownership. My work spans accessible mobile experiences, privacy-first AI tools, CRM implementation, and full-stack systems.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+> **Currently:** leading a five-member student digital-solutions team and seeking a **Jan–May 2027 internship** in software development, product, business analysis, CRM, or technology consulting.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<br>
+
+## Selected work
+
+### 01 — LearnBIM
+
+<sub>APPLE SWIFT STUDENT CHALLENGE 2026 WINNER</sub>
+
+An interactive iOS experience for learning **Bahasa Isyarat Malaysia** through guided reference videos and real-time gesture feedback. LearnBIM uses on-device computer vision and machine learning to make sign-language practice more active, private, and accessible.
+
+`SwiftUI` &nbsp; `Vision` &nbsp; `Core ML` &nbsp; `AVFoundation`
+
+**[Explore LearnBIM →](https://github.com/kongjiyu/LearnBIM)** &nbsp;&nbsp; [Watch the demo](https://www.youtube.com/watch?v=AiKgc819P6U)
+
+---
+
+### 02 — Remembry
+
+<sub>PRIVACY-FIRST AI</sub>
+
+A self-hosted desktop meeting assistant that transforms recordings into structured, searchable notes. Meeting data stays local in SQLite while AI supports transcription, decisions, summaries, and action-item extraction.
+
+`Tauri` &nbsp; `Rust` &nbsp; `Next.js` &nbsp; `SQLite` &nbsp; `Gemini`
+
+**[Explore Remembry →](https://github.com/kongjiyu/remembry-app)** &nbsp;&nbsp; [View live product](https://remembry.vercel.app/)
+
+---
+
+### 03 — STERAS
+
+<sub>AUDITABLE PUBLIC-SERVICE WORKFLOWS</sub>
+
+A tourism-event risk, review, and approval system designed around Malaysian public-sector workflows. It combines deterministic risk assessment, versioned evidence, multi-agency decisions, and carefully bounded advisory AI.
+
+`React` &nbsp; `TypeScript` &nbsp; `Firebase` &nbsp; `Cloud Functions`
+
+**[Explore STERAS →](https://github.com/kongjiyu/steras)**
+
+<br>
+
+## Recognition & delivery
+
+| Recognition | Evidence of delivery |
+| --- | --- |
+| **Apple Swift Student Challenge 2026 Winner** — LearnBIM | Led scopes, prototypes, planning, and delivery for approximately **RM12,000** in client project value |
+| **2nd Runner-Up, CodeNection 2025** — [Dotivra](https://github.com/kongjiyu/dotivra) | Supported a CRM rollout for approximately **50 users** and migrated **1,000+ product records** |
+| **CGPA 3.96 / 4.00** — Bachelor of Software Engineering (Hons) | Participated in **20+ client meetings** across CRM and cloud solution consulting |
+
+<br>
+
+## Practice
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Engineering</strong><br><br>
+      Full-stack web<br>
+      Mobile & desktop apps<br>
+      AI-assisted workflows<br>
+      Data & cloud systems
+    </td>
+    <td width="33%" valign="top">
+      <strong>Product & delivery</strong><br><br>
+      Requirements discovery<br>
+      Prototyping<br>
+      Quality assurance<br>
+      Team coordination
+    </td>
+    <td width="33%" valign="top">
+      <strong>Business systems</strong><br><br>
+      CRM configuration<br>
+      Workflow analysis<br>
+      Data migration<br>
+      User training
+    </td>
+  </tr>
+</table>
+
+### Selected technology
+
+**Languages**&nbsp;&nbsp; Swift · TypeScript · JavaScript · Python · Java · C · Dart<br>
+**Frameworks**&nbsp;&nbsp; React · Next.js · Flutter · Tauri · Firebase<br>
+**Data & cloud**&nbsp;&nbsp; MySQL · SQLite · Supabase · Oracle Cloud · Vercel · Cloudflare<br>
+**Delivery tools**&nbsp;&nbsp; Git · Docker · Bitrix CRM · WordPress · Notion
+
+<br>
+
+## Let's make useful things.
+
+I'm interested in software that is useful, understandable, and grounded in real user needs. If you're building a thoughtful product, business system, or socially meaningful technology, I'd be glad to connect.
+
+**[View my portfolio](https://jy-portfolio-six.vercel.app/)** &nbsp;·&nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/ji-yu-kong-249516279/)** &nbsp;·&nbsp; **[Send an email](mailto:kongjiyu0198@gmail.com)**
+
+<sub>Based in Malaysia · Chinese / English / Malay</sub>

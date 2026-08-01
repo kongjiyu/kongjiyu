@@ -1,0 +1,21 @@
+<svg width="800" height="560" viewBox="0 0 800 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Kong Ji Yu — Software Engineering, Product, and Systems</title>
+  <desc id="description">Mobile editorial profile banner in deep ink, warm white, and cobalt blue.</desc>
+  <rect width="800" height="560" fill="#0D1524"/>
+  <path d="M0 0H18V560H0V0Z" fill="#5B93FF"/>
+  <path d="M570 0H800V230L685 345L570 230V0Z" fill="#EDF0EA"/>
+  <path d="M570 230H685L570 115V230Z" fill="#FF8A6B"/>
+  <circle cx="685" cy="114" r="55" stroke="#17233C" stroke-width="2"/>
+  <path d="M657 114H713M685 86V142" stroke="#17233C" stroke-width="2"/>
+  <circle cx="685" cy="114" r="8" fill="#5B93FF"/>
+
+  <text x="62" y="64" fill="#EDF0EA" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="17" font-weight="700" letter-spacing="4">PROFILE / 2026</text>
+  <path d="M62 88H520" stroke="#EDF0EA" stroke-width="2"/>
+  <text x="62" y="198" fill="#EDF0EA" font-family="Georgia, Times New Roman, serif" font-size="78" font-weight="700" letter-spacing="-2">KONG JI YU</text>
+  <text x="64" y="252" fill="#5B93FF" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="20" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING</text>
+  <text x="64" y="286" fill="#5B93FF" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="20" font-weight="700" letter-spacing="4">PRODUCT · SYSTEMS</text>
+  <path d="M62 334H738" stroke="#EDF0EA" stroke-width="2"/>
+  <text x="62" y="410" fill="#B8C0D1" font-family="Georgia, Times New Roman, serif" font-size="36" font-style="italic">Design with intention.</text>
+  <text x="62" y="466" fill="#B8C0D1" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="22" font-weight="500">Useful software. Technical depth.</text>
+  <text x="62" y="518" fill="#EDF0EA" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="16" font-weight="700" letter-spacing="3">MALAYSIA → GLOBAL</text>
+</svg>

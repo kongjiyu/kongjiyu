@@ -1,0 +1,27 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Kong Ji Yu — Software Engineering, Product, and Systems</title>
+  <desc id="description">Editorial profile banner in warm ivory, graphite, and cobalt blue.</desc>
+  <rect width="1200" height="440" fill="#F3F1EA"/>
+  <path d="M0 0H18V440H0V0Z" fill="#1768E5"/>
+  <path d="M876 0H1200V440H1004L876 312V0Z" fill="#17233C"/>
+  <path d="M876 312H1004L876 184V312Z" fill="#E6664A"/>
+  <path d="M68 82H824" stroke="#17233C" stroke-width="2"/>
+  <path d="M68 356H824" stroke="#17233C" stroke-width="2"/>
+
+  <text x="68" y="58" fill="#17233C" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="17" font-weight="600" letter-spacing="4">PROFILE / 2026</text>
+  <text x="68" y="177" fill="#17233C" font-family="Georgia, Times New Roman, serif" font-size="94" font-weight="700" letter-spacing="-3">KONG JI YU</text>
+  <text x="72" y="221" fill="#1768E5" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="21" font-weight="700" letter-spacing="5">SOFTWARE ENGINEERING · PRODUCT · SYSTEMS</text>
+  <text x="72" y="284" fill="#3C465B" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="25" font-weight="500">Building useful software with technical depth</text>
+  <text x="72" y="319" fill="#3C465B" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="25" font-weight="500">and a sharp eye for product detail.</text>
+
+  <text x="68" y="397" fill="#17233C" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="15" font-weight="700" letter-spacing="2">MALAYSIA</text>
+  <circle cx="178" cy="391" r="4" fill="#E6664A"/>
+  <text x="198" y="397" fill="#17233C" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="15" font-weight="700" letter-spacing="2">APPLE SWIFT STUDENT CHALLENGE WINNER</text>
+
+  <text x="927" y="66" fill="#F3F1EA" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="15" font-weight="700" letter-spacing="3">DESIGN WITH</text>
+  <text x="927" y="91" fill="#F3F1EA" font-family="Avenir Next, Helvetica Neue, sans-serif" font-size="15" font-weight="700" letter-spacing="3">INTENTION</text>
+  <circle cx="1039" cy="210" r="76" stroke="#F3F1EA" stroke-width="2"/>
+  <path d="M1001 210H1077M1039 172V248" stroke="#F3F1EA" stroke-width="2"/>
+  <circle cx="1039" cy="210" r="9" fill="#1768E5"/>
+  <text x="927" y="382" fill="#F3F1EA" font-family="Georgia, Times New Roman, serif" font-size="21" font-style="italic">Malaysia → global</text>
+</svg>
