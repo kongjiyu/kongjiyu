@@ -1,118 +1,75 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-hero-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile-hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img alt="Kong Ji Yu — Software Engineering, Product, and Systems" src="./assets/profile-hero-light.svg" width="100%">
-</picture>
-
 <p align="center">
-  <a href="https://jy-portfolio-six.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:kongjiyu0198@gmail.com"><strong>Email</strong></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Kong%20Ji%20Yu&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Product%20%E2%80%A2%20Systems&descAlignY=57&descSize=17" alt="Kong Ji Yu — Software Engineering, Product, and Systems">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple_Swift_Student_Challenge-2026_Winner-1F6FEB?style=flat-square&logo=swift&logoColor=white" alt="Apple Swift Student Challenge 2026 Winner">
+  <img src="https://img.shields.io/badge/CGPA-3.96_%2F_4.00-17233C?style=flat-square" alt="CGPA 3.96 out of 4.00">
+  <img src="https://img.shields.io/badge/Based_in-Malaysia-E6664A?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Malaysia">
+</p>
 
-## I build software around real human and business needs.
+<p align="center">
+  I build accessible products, privacy-first AI tools, and full-stack systems.<br>
+  <strong>Open to Jan–May 2027 internship opportunities.</strong>
+</p>
 
-I'm a Software Engineering student at **TAR UMT** with a **3.96 / 4.00 CGPA**, combining hands-on engineering with product thinking, client communication, and delivery ownership. My work spans accessible mobile experiences, privacy-first AI tools, CRM implementation, and full-stack systems.
+<p align="center">
+  <a href="https://jy-portfolio-six.vercel.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:kongjiyu0198@gmail.com">Email</a>
+</p>
 
-> **Currently:** leading a five-member student digital-solutions team and seeking a **Jan–May 2027 internship** in software development, product, business analysis, CRM, or technology consulting.
+## Award-winning work
 
-<br>
+<a href="https://github.com/kongjiyu/LearnBIM">
+  <img width="100%" src="https://raw.githubusercontent.com/kongjiyu/LearnBIM/main/README_assets/learnbim-hero.svg" alt="LearnBIM — interactive Bahasa Isyarat Malaysia learning">
+</a>
 
-## Selected work
+<p align="center">
+  <strong>Swift Student Challenge 2026 Winner</strong>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/kongjiyu/LearnBIM">Source</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=AiKgc819P6U">Demo</a>
+</p>
 
-### 01 — LearnBIM
+## Featured by TAR UMT
 
-<sub>APPLE SWIFT STUDENT CHALLENGE 2026 WINNER</sub>
+<p align="center">
+  <a href="https://www.youtube.com/shorts/7DScmFPmWDU">
+    <img width="82%" src="https://i.ytimg.com/vi/7DScmFPmWDU/maxresdefault.jpg" alt="Super STARs EP1 — Kong Ji Yu introduces LearnBIM and his Apple Swift Challenge win">
+  </a>
+</p>
 
-An interactive iOS experience for learning **Bahasa Isyarat Malaysia** through guided reference videos and real-time gesture feedback. LearnBIM uses on-device computer vision and machine learning to make sign-language practice more active, private, and accessible.
+<p align="center">
+  <a href="https://www.youtube.com/shorts/7DScmFPmWDU"><img src="https://img.shields.io/badge/Watch-Super_STARs_%C2%B7_EP1-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Super STARs Episode 1 on YouTube"></a>
+</p>
 
-`SwiftUI` &nbsp; `Vision` &nbsp; `Core ML` &nbsp; `AVFoundation`
+## Selected projects
 
-**[Explore LearnBIM →](https://github.com/kongjiyu/LearnBIM)** &nbsp;&nbsp; [Watch the demo](https://www.youtube.com/watch?v=AiKgc819P6U)
+<p align="center">
+  <a href="https://github.com/kongjiyu/remembry-app"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=remembry-app&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="Remembry repository card"></a>
+  <a href="https://github.com/kongjiyu/steras"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=steras&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="STERAS repository card"></a>
+  <a href="https://github.com/kongjiyu/tarumt-calendar-sync"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=tarumt-calendar-sync&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="TAR UMT Calendar Sync repository card"></a>
+  <a href="https://github.com/kongjiyu/dotivra"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=dotivra&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="Dotivra repository card"></a>
+</p>
 
----
+## Toolkit
 
-### 02 — Remembry
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,python,java,c,flutter,firebase,supabase,mysql,sqlite,docker,git,vercel&perline=8" alt="Swift, TypeScript, JavaScript, React, Next.js, Python, Java, C, Flutter, Firebase, Supabase, MySQL, SQLite, Docker, Git, and Vercel">
+</p>
 
-<sub>PRIVACY-FIRST AI</sub>
+## GitHub pulse
 
-A self-hosted desktop meeting assistant that transforms recordings into structured, searchable notes. Meeting data stays local in SQLite while AI supports transcription, decisions, summaries, and action-item extraction.
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kongjiyu&show_icons=true&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&include_all_commits=true" alt="Kong Ji Yu's GitHub statistics">
+  <img height="165" src="https://streak-stats.demolab.com?user=kongjiyu&theme=github-dark-blue&hide_border=false&border=30363D&ring=1F6FEB&fire=E6664A&currStreakLabel=58A6FF" alt="Kong Ji Yu's contribution streak">
+</p>
 
-`Tauri` &nbsp; `Rust` &nbsp; `Next.js` &nbsp; `SQLite` &nbsp; `Gemini`
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kongjiyu&bg_color=transparent&color=C9D1D9&line=1F6FEB&point=E6664A&area=true&hide_border=true" alt="Kong Ji Yu's contribution activity graph">
 
-**[Explore Remembry →](https://github.com/kongjiyu/remembry-app)** &nbsp;&nbsp; [View live product](https://remembry.vercel.app/)
+<p align="center">
+  <a href="https://jy-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio"></a>
+  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/"><img src="https://img.shields.io/badge/Let's_Connect-17233C?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+</p>
 
----
-
-### 03 — STERAS
-
-<sub>AUDITABLE PUBLIC-SERVICE WORKFLOWS</sub>
-
-A tourism-event risk, review, and approval system designed around Malaysian public-sector workflows. It combines deterministic risk assessment, versioned evidence, multi-agency decisions, and carefully bounded advisory AI.
-
-`React` &nbsp; `TypeScript` &nbsp; `Firebase` &nbsp; `Cloud Functions`
-
-**[Explore STERAS →](https://github.com/kongjiyu/steras)**
-
-<br>
-
-## Recognition & delivery
-
-| Recognition | Evidence of delivery |
-| --- | --- |
-| **Apple Swift Student Challenge 2026 Winner** — LearnBIM | Led scopes, prototypes, planning, and delivery for approximately **RM12,000** in client project value |
-| **2nd Runner-Up, CodeNection 2025** — [Dotivra](https://github.com/kongjiyu/dotivra) | Supported a CRM rollout for approximately **50 users** and migrated **1,000+ product records** |
-| **CGPA 3.96 / 4.00** — Bachelor of Software Engineering (Hons) | Participated in **20+ client meetings** across CRM and cloud solution consulting |
-
-<br>
-
-## Practice
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Engineering</strong><br><br>
-      Full-stack web<br>
-      Mobile & desktop apps<br>
-      AI-assisted workflows<br>
-      Data & cloud systems
-    </td>
-    <td width="33%" valign="top">
-      <strong>Product & delivery</strong><br><br>
-      Requirements discovery<br>
-      Prototyping<br>
-      Quality assurance<br>
-      Team coordination
-    </td>
-    <td width="33%" valign="top">
-      <strong>Business systems</strong><br><br>
-      CRM configuration<br>
-      Workflow analysis<br>
-      Data migration<br>
-      User training
-    </td>
-  </tr>
-</table>
-
-### Selected technology
-
-**Languages**&nbsp;&nbsp; Swift · TypeScript · JavaScript · Python · Java · C · Dart<br>
-**Frameworks**&nbsp;&nbsp; React · Next.js · Flutter · Tauri · Firebase<br>
-**Data & cloud**&nbsp;&nbsp; MySQL · SQLite · Supabase · Oracle Cloud · Vercel · Cloudflare<br>
-**Delivery tools**&nbsp;&nbsp; Git · Docker · Bitrix CRM · WordPress · Notion
-
-<br>
-
-## Let's make useful things.
-
-I'm interested in software that is useful, understandable, and grounded in real user needs. If you're building a thoughtful product, business system, or socially meaningful technology, I'd be glad to connect.
-
-**[View my portfolio](https://jy-portfolio-six.vercel.app/)** &nbsp;·&nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/ji-yu-kong-249516279/)** &nbsp;·&nbsp; **[Send an email](mailto:kongjiyu0198@gmail.com)**
-
-<sub>Based in Malaysia · Chinese / English / Malay</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" alt="">

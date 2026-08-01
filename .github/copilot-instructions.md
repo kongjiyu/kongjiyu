@@ -10,12 +10,13 @@ Design-conscious, professional, and precise. The experience should communicate h
 
 ### Aesthetic Direction
 
-Premium editorial and Swiss-inspired. Use asymmetric composition, strong typographic hierarchy, warm neutrals, graphite, and a focused cobalt accent. Support both GitHub light and dark themes. Avoid anime or cosplay references, neon developer aesthetics, badge walls, generic gradients, noisy statistics, and decorative animation.
+Visual-first GitHub dashboard with concise copy and mature open-source profile components. Use a focused cobalt accent, transparent or theme-adaptive cards, and clear visual grouping. Favor flagship product visuals, credible institutional media, dynamic project cards, skill icons, contribution visuals, and restrained motion over long prose. Avoid anime or cosplay references, dense resume sections, badge walls, neon developer aesthetics, and mismatched component themes.
 
 ### Design Principles
 
 1. Make the first screen communicate positioning and credibility immediately.
-2. Use hierarchy, spacing, and restraint as the primary visual tools.
+2. Keep prose extremely short; let visual components carry the page.
 3. Give flagship work more visual weight than supporting projects.
-4. Prefer stable, accessible, self-owned assets over fragile third-party widgets.
-5. Let measurable outcomes support the story without turning the page into a dashboard.
+4. Prefer distinctive evidence such as product demos and media features over decorative counters.
+5. Use actively maintained components and test every external endpoint.
+6. Keep component colors, borders, and spacing visually consistent.
