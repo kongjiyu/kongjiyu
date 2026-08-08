@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Kong%20Ji%20Yu&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Product%20%E2%80%A2%20Systems&descAlignY=57&descSize=17" alt="Kong Ji Yu — Software Engineering, Product, and Systems">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,55:DDEBFF,100:0969DA&height=190&section=header&text=Kong%20Ji%20Yu&fontSize=46&fontColor=24292F&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Product%20%E2%80%A2%20Systems&descAlignY=57&descSize=17" alt="Kong Ji Yu — Software Engineering, Product, and Systems">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apple_Swift_Student_Challenge-2026_Winner-1F6FEB?style=flat-square&logo=swift&logoColor=white" alt="Apple Swift Student Challenge 2026 Winner">
-  <img src="https://img.shields.io/badge/CGPA-3.96_%2F_4.00-17233C?style=flat-square" alt="CGPA 3.96 out of 4.00">
+  <img src="https://img.shields.io/badge/CGPA-3.96_%2F_4.00-57606A?style=flat-square" alt="CGPA 3.96 out of 4.00">
   <img src="https://img.shields.io/badge/Based_in-Malaysia-E6664A?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Malaysia">
 </p>
 
@@ -46,23 +46,23 @@
 ## Selected projects
 
 <p align="center">
-  <a href="https://github.com/kongjiyu/remembry-app"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=remembry-app&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="Remembry repository card"></a>
-  <a href="https://github.com/kongjiyu/steras"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=steras&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="STERAS repository card"></a>
-  <a href="https://github.com/kongjiyu/tarumt-calendar-sync"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=tarumt-calendar-sync&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="TAR UMT Calendar Sync repository card"></a>
-  <a href="https://github.com/kongjiyu/dotivra"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=dotivra&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&description_lines_count=2" alt="Dotivra repository card"></a>
+  <a href="https://github.com/kongjiyu/remembry-app"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=remembry-app&theme=default&bg_color=F6F8FA&border_color=D0D7DE&title_color=0969DA&text_color=57606A&icon_color=E16F24&description_lines_count=2" alt="Remembry repository card"></a>
+  <a href="https://github.com/kongjiyu/steras"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=steras&theme=default&bg_color=F6F8FA&border_color=D0D7DE&title_color=0969DA&text_color=57606A&icon_color=E16F24&description_lines_count=2" alt="STERAS repository card"></a>
+  <a href="https://github.com/kongjiyu/tarumt-calendar-sync"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=tarumt-calendar-sync&theme=default&bg_color=F6F8FA&border_color=D0D7DE&title_color=0969DA&text_color=57606A&icon_color=E16F24&description_lines_count=2" alt="TAR UMT Calendar Sync repository card"></a>
+  <a href="https://github.com/kongjiyu/dotivra"><img height="140" src="https://github-stats-extended.vercel.app/api/pin/?username=kongjiyu&repo=dotivra&theme=default&bg_color=F6F8FA&border_color=D0D7DE&title_color=0969DA&text_color=57606A&icon_color=E16F24&description_lines_count=2" alt="Dotivra repository card"></a>
 </p>
 
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,python,java,c,flutter,firebase,supabase,mysql,sqlite,docker,git,vercel&perline=8" alt="Swift, TypeScript, JavaScript, React, Next.js, Python, Java, C, Flutter, Firebase, Supabase, MySQL, SQLite, Docker, Git, and Vercel">
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,python,java,c,flutter,firebase,supabase,mysql,sqlite,docker,git,vercel&theme=light&perline=8" alt="Swift, TypeScript, JavaScript, React, Next.js, Python, Java, C, Flutter, Firebase, Supabase, MySQL, SQLite, Docker, Git, and Vercel">
 </p>
 
 ## GitHub pulse
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kongjiyu&show_icons=true&theme=github_dark&border_color=30363D&title_color=58A6FF&icon_color=E6664A&include_all_commits=true" alt="Kong Ji Yu's GitHub statistics">
-  <img height="165" src="https://streak-stats.demolab.com?user=kongjiyu&theme=github-dark-blue&hide_border=false&border=30363D&ring=1F6FEB&fire=E6664A&currStreakLabel=58A6FF" alt="Kong Ji Yu's contribution streak">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kongjiyu&show_icons=true&theme=default&bg_color=F6F8FA&border_color=D0D7DE&title_color=0969DA&text_color=57606A&icon_color=E16F24&include_all_commits=true" alt="Kong Ji Yu's GitHub statistics">
+  <img height="165" src="https://streak-stats.demolab.com?user=kongjiyu&theme=default&background=F6F8FA&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=E16F24&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=6E7781" alt="Kong Ji Yu's contribution streak">
 </p>
 
 <p align="center">
@@ -71,11 +71,11 @@
   </a>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kongjiyu&bg_color=transparent&color=C9D1D9&line=1F6FEB&point=E6664A&area=true&hide_border=true" alt="Kong Ji Yu's contribution activity graph">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kongjiyu&bg_color=F6F8FA&color=57606A&line=0969DA&point=E16F24&area=true&hide_border=false&border_color=D0D7DE" alt="Kong Ji Yu's contribution activity graph">
 
 <p align="center">
   <a href="https://jy-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio"></a>
-  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/"><img src="https://img.shields.io/badge/Let's_Connect-17233C?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ji-yu-kong-249516279/"><img src="https://img.shields.io/badge/Let's_Connect-57606A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,45:DDEBFF,100:F6F8FA&height=100&section=footer" alt="">

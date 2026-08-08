@@ -10,7 +10,7 @@ Design-conscious, professional, and precise. The experience should communicate h
 
 ### Aesthetic Direction
 
-Visual-first GitHub dashboard with concise copy and mature open-source profile components. Use a focused cobalt accent, transparent or theme-adaptive cards, and clear visual grouping. Favor flagship product visuals, credible institutional media, dynamic project cards, skill icons, contribution visuals, and restrained motion over long prose. Avoid anime or cosplay references, dense resume sections, badge walls, neon developer aesthetics, and mismatched component themes.
+Light-first GitHub dashboard with concise copy and mature open-source profile components. Use soft blue-gray surfaces, restrained borders, a focused cobalt accent, and clear visual grouping. Keep third-party cards consistently light even when GitHub is viewed in dark mode. Favor flagship product visuals, credible institutional media, dynamic project cards, skill icons, contribution visuals, and restrained motion over long prose. Avoid anime or cosplay references, dense resume sections, badge walls, neon developer aesthetics, and mismatched component themes.
 
 ### Design Principles
 
