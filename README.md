@@ -65,6 +65,12 @@
   <img height="165" src="https://streak-stats.demolab.com?user=kongjiyu&theme=github-dark-blue&hide_border=false&border=30363D&ring=1F6FEB&fire=E6664A&currStreakLabel=58A6FF" alt="Kong Ji Yu's contribution streak">
 </p>
 
+<p align="center">
+  <a href="https://tokens.ci/u/kongjiyu">
+    <img width="100%" src="https://tokens.ci/api/embed/kongjiyu/svg?view=3d&amp;theme=light&amp;compact=1" alt="Tokens Stats — Kong Ji Yu's 3D AI coding activity">
+  </a>
+</p>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kongjiyu&bg_color=transparent&color=C9D1D9&line=1F6FEB&point=E6664A&area=true&hide_border=true" alt="Kong Ji Yu's contribution activity graph">
 
 <p align="center">
